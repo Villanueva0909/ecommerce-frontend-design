@@ -1,6 +1,6 @@
 const MainLayout = () => {
     return (
-        <div>
+        <div className="text-red-500">
             test
         </div>
     )
