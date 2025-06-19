@@ -1,4 +1,4 @@
-const Register = () => {
+export const Register = () => {
     return (
         <div>
             this is register page
