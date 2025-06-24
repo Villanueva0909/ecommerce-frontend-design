@@ -14,7 +14,7 @@ const MainLayout = () => {
                 <Route path="/" element={<Home />} />
                 <Route path="auth" element={<Auth />} />
                 <Route path="login" element={<Login />} />
-                <Route path="register" element={<Register />} />
+                <Route path="register" element={<Register />} /> 
             </Routes>
         </BrowserRouter>
     )
